@@ -1,0 +1,19 @@
+{
+  "name": "switch-dns-resolver",
+  "version": "1.0.0",
+  "description": "dns server for Nswitch spoofing",
+  "url": "https://github.com/Magatsu41/switch-dns-resolver.git",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Magatsu",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.4",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "native-dns": "^0.7.0"
+  }
+}
