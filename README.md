@@ -58,5 +58,5 @@ Comme la requète vers les serveurs de test de connexion n'est jamais satisfaite
 
 ## Remerciements :
 
-    - [SwitchBRU](https://www.switchbru.com/dns/)
-    - [Peteris Rocks](https://peteris.rocks/blog/)
+- [SwitchBRU](https://www.switchbru.com/dns/)
+ - [Peteris Rocks](https://peteris.rocks/blog/)
